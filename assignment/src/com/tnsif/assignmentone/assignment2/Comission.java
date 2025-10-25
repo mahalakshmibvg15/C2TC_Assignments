@@ -1,5 +1,5 @@
 package com.tnsif.assignmentone.assignment2;
-
+import java.util.Scanner;
 public class Comission {
 	private String name;
     private String address;
