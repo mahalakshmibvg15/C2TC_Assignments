@@ -1,11 +1,11 @@
 package com.tnsif.assignmentone.assignment6;
 	import java.util.ArrayList;
 
-	public class StudentScore {
+	public class Studentscores{
 	    private int[] scores;
 
 	    // Constructor to initialize array
-	    public StudentScore(int[] scores) {
+	    public Studentscores(int[] scores) {
 	        this.scores = scores;
 	    }
 

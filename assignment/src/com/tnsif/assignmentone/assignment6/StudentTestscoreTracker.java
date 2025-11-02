@@ -2,7 +2,7 @@ package com.tnsif.assignmentone.assignment6;
 	import java.util.ArrayList;
 	import java.util.Scanner;
 
-	public class StudentTestScoreTracker {
+	public class StudentTestscoreTracker {
 	    public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
 
@@ -16,7 +16,7 @@ package com.tnsif.assignmentone.assignment6;
 	        }
 
 	        // Create object for StudentScores
-	        StudentScores student = new StudentScores(scores);
+	        Studentscores student = new Studentscores(scores);
 
 	        // Get ArrayList from class
 	        ArrayList<Integer> scoreList = student.getScoresList();
